@@ -1,4 +1,4 @@
-const CACHE_NAME = 'elecpocket-v1';
+const CACHE_NAME = 'elecpocket-v2';
 const APP_SHELL = [
   '/elecpocket/',
   '/elecpocket/index.html',
